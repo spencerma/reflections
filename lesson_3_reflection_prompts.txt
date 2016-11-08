@@ -1,3 +1,10 @@
 Q.When would you want to use a remote repository rather than keeping all your work local?
 As a backup
 
+Q.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+There maybe some conflicting change which affect my experiment
+
+Q.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+forks - occurs inside Github - Play with other's code
+clone - edit locally
+branches - parallel experiment
