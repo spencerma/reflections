@@ -16,3 +16,6 @@ Q.How would you collaborate without using Git or GitHub? What would be easier, a
 With: all history and auto notification
 Without: No rapid turnaround compare to face to face
 
+Q.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+master: Faster & Dirty
+Branch: parallel development
