@@ -12,3 +12,7 @@ branches - parallel experiment
 Q.What is the benefit of having a copy of the last known state of the remote stored locally?
 To faciliate future push and potential conflict resolution
 
+Q.How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+With: all history and auto notification
+Without: No rapid turnaround compare to face to face
+
